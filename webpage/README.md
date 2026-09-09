@@ -1,4 +1,3 @@
-
 # 🌙 A Website That Wasn't Supposed to Exist
 
 A cinematic, personal, and interactive webpage crafted specifically for **Bhakti**.  
@@ -100,6 +99,3 @@ Plays on the spinning vinyl record in Scene 5:
 - **Her Name**: In `index.html`, search for `Bhakti` to adjust the name or spelling.
 - **Theme**: Click the flower/moon icon in the top right to toggle between *Twilight Moonlit Night* and *Pastel Cotton-Candy Dream*.
 
-=======
-# just-something-for-you
->>>>>>> 787c8950a3733294b772f2b0827b3732b8dff416
