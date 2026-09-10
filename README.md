@@ -99,7 +99,3 @@ Plays on the spinning vinyl record in Scene 5:
 - **Signature**: In `index.html`, look for `— K` to change your signature or initials.
 - **Her Name**: In `index.html`, search for `Bhakti` to adjust the name or spelling.
 - **Theme**: Click the flower/moon icon in the top right to toggle between *Twilight Moonlit Night* and *Pastel Cotton-Candy Dream*.
-
-=======
-# just-something-for-you
->>>>>>> 787c8950a3733294b772f2b0827b3732b8dff416
