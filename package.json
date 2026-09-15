@@ -2,9 +2,10 @@
   "name": "webpage",
   "version": "1.0.0",
   "description": "A cinematic, personal, and interactive webpage",
+  "main": "server.js",
   "scripts": {
-    "build": "echo 'Ready'",
-    "start": "node dev-server.js",
-    "dev": "node dev-server.js"
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo 'Static site ready'"
   }
 }

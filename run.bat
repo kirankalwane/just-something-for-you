@@ -1,3 +1,3 @@
 @echo off
 echo Starting server...
-node dev-server.js
+node server.js
