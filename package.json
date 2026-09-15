@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A cinematic, personal, and interactive webpage",
   "scripts": {
+    "build": "echo 'Ready'",
     "start": "node dev-server.js",
     "dev": "node dev-server.js"
   }
